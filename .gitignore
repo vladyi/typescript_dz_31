@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Output directories
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm/
+
+# IDE directories and files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript config files
+tsconfig.tsbuildinfo
+
+# Coverage directory used by tools like jest
+coverage/
+
+# MacOS specific files
+.DS_Store
